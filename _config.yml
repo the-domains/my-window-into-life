@@ -1,0 +1,28 @@
+name: My Window Into Life
+favicon: null
+layout_spectrum: 0.7306698898319155
+typography_spectrum: 0.9667387802619487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.44819868402555585
+  lightness: 0.24726675590500236
+  saturation: 0.10243592970073223
+  rhythmicContrast: 0.9215134799014777
+purpose: []
